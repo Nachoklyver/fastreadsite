@@ -1,0 +1,11 @@
+{
+    "name": "nacho/fastread",
+    "description": "fastread website",
+    "authors": [
+        {
+            "name": "Nacho Klyver",
+            "email": "nachoklyver@gmail.com"
+        }
+    ],
+    "require": {}
+}
